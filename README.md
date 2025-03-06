@@ -1,4 +1,4 @@
-### NexXt Ana - Your Customer Service Operator Helper
+## NexXt Ana - Your Customer Service Operator Helper
 
 ![NexXt ANA Logo](logo.jpg)
 
