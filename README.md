@@ -2,7 +2,7 @@
 
 ![NexXt ANA Logo](logo.jpg)
 
-**NexX Ana**'s purpose is to enhance the **Customer Satisfaction Rate (CSAT)**. It aims to achieve this through an advanced **multi-agent artificial intelligence** system that analyzes customer and operator conversations in real time and offers **personalized recommendations** for call center operators. This approach not only improves the customer experience but also significantly reduces **operational costs (OPEX)**, particularly those associated with training new employees.
+**NexXt ANA's** purpose is to enhance the **Customer Satisfaction Rate (CSAT)**. It aims to achieve this through an advanced **multi-agent artificial intelligence** system that analyzes customer and operator conversations in real time and offers **personalized recommendations** for call center operators. This approach not only improves the customer experience but also significantly reduces **operational costs (OPEX)**, particularly those associated with training new employees.
 
 ## Core Functionality
 
