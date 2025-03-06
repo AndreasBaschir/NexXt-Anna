@@ -1,6 +1,6 @@
 ## NexXt Ana - Your Customer Service Operator Helper
 
-![NexXt ANA Logo](logo.jpg)
+<img src="logo.jpg" alt="Logo NexXt ANA" width="500" />
 
 **NexXt ANA's** purpose is to enhance the **Customer Satisfaction Rate (CSAT)**. It aims to achieve this through an advanced **multi-agent artificial intelligence** system that analyzes customer and operator conversations in real time and offers **personalized recommendations** for call center operators. This approach not only improves the customer experience but also significantly reduces **operational costs (OPEX)**, particularly those associated with training new employees.
 
